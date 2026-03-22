@@ -141,7 +141,7 @@ Skwizy
             height: 170px;
             background: #1f2a33;
 
-Сиська, [23.03.2026 01:34]
+Сиська,
 display: flex;
             align-items: center;
             justify-content: center;
